@@ -3,7 +3,7 @@ package storage
 import (
 	"database/sql"
 	"fmt"
-	"github.com/dshepett/task-manager/internal/config"
+	"github.com/Dshepett/task-manager/internal/config"
 	_ "github.com/lib/pq"
 	"log"
 )

@@ -1,8 +1,8 @@
 package app
 
 import (
-	"github.com/dshepett/task-manager/internal/models"
-	"github.com/dshepett/task-manager/pkg/responder"
+	"github.com/Dshepett/task-manager/internal/models"
+	"github.com/Dshepett/task-manager/pkg/responder"
 	"github.com/gorilla/mux"
 	"net/http"
 	"strconv"

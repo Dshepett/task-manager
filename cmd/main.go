@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/dshepett/task-manager/internal/config"
+	"github.com/Dshepett/task-manager/internal/config"
 	"log"
 
-	"github.com/dshepett/task-manager/internal/app"
+	"github.com/Dshepett/task-manager/internal/app"
 )
 
 func main() {

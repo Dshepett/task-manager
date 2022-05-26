@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/dshepett/task-manager/pkg/responder"
+	"github.com/Dshepett/task-manager/pkg/responder"
 	"net/http"
 )
 

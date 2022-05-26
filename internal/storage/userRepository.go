@@ -2,7 +2,7 @@ package storage
 
 import (
 	"database/sql"
-	"github.com/dshepett/task-manager/internal/models"
+	"github.com/Dshepett/task-manager/internal/models"
 	_ "github.com/lib/pq"
 )
 

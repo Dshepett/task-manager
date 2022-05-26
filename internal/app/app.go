@@ -1,8 +1,8 @@
 package app
 
 import (
-	"github.com/dshepett/task-manager/internal/config"
-	"github.com/dshepett/task-manager/internal/storage"
+	"github.com/Dshepett/task-manager/internal/config"
+	"github.com/Dshepett/task-manager/internal/storage"
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"
 	"net/http"

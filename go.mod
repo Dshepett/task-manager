@@ -1,4 +1,4 @@
-module github.com/dshepett/task-manager
+module github.com/Dshepett/task-manager
 
 go 1.18
 
